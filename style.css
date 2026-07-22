@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: green;
+}
+
+
+#div{
+    height: 60px;
+    background-color: black;
+    border:5px solid white;
+    width: 98%;
+    text-align: center;
+}
+
+#amazon{
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    color: orange;
+    margin-right: 200px;
+
+}
+
+#Account{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+#my_cart{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+#contact_us{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+#search_button{
+    background-color: orange;
+}
