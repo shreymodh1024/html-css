@@ -9,10 +9,10 @@ body{
 
 
 #div{
-    height: 60px;
+    height: 40px;
     background-color: black;
-    border:5px solid white;
-    width: 98%;
+    border: solid white;
+    
     text-align: center;
 }
 
@@ -45,4 +45,47 @@ body{
 
 #search_button{
     background-color: orange;
+}
+
+#div1{
+   
+    height: 150px; width: 150px;
+    background-color: red;
+    opacity: 0.5;
+    margin: 80px;
+    padding: 25px;
+    display: inline-block;
+    border: 5px solid;
+    margin-left: 220px;
+}
+
+#div2{
+     height: 150px; width: 150px;
+    background-color: aqua;
+    opacity: 0.5;
+    margin: 80px;
+    padding: 25px;
+    display: inline-block;
+    border: 5px solid;
+}
+
+#div3{
+     height: 150px; width: 150px;
+    background-color: yellow;
+    opacity: 0.5;
+    margin: 80px;
+    padding: 25px;
+    display: inline-block;
+    border: 5px solid;
+}
+
+main{
+    height: 1000px;
+}
+
+footer{
+    font-style: italic;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
