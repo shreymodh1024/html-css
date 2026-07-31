@@ -15,4 +15,7 @@ eg. form, article, table, etc.
 ### Non Semantic tags
 eg. div, span, etc.
 
+# <u>CSS</u>
+### Combined Selector
+To target elements that meet multiple criteria simultaneously
   
