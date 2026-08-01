@@ -1,0 +1,45 @@
+/* 
+div  h1{it's descendent selector
+    background-color: aqua;
+} */
+
+div > h1 {/* child selector */ 
+    background-color: aqua;
+}
+
+h1 + h2{/*adjacent sibling selector */
+    color: blue;
+}
+
+/* pseudo class selectors */
+/* :hover */
+button:hover{
+    
+    background-color: red;
+    color: white;
+}
+
+button:active{
+    background-color: blue;
+}
+
+a:visited{
+    color: brown;
+}
+
+input:focus{
+    background-color: yellow;
+}
+
+p:nth-of-type(2n-1){
+    background-color: green;
+}
+
+#one{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+
