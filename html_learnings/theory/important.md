@@ -18,4 +18,10 @@ eg. div, span, etc.
 # <u>CSS</u>
 ### Combined Selector
 To target elements that meet multiple criteria simultaneously
+
+### Pseudo class selector
+can add styles for hovering, active, focus, visited, etc.
+
+### Pseudo class element
+used to style specified parts of an element
   
