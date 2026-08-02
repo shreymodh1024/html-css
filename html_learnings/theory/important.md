@@ -24,4 +24,7 @@ can add styles for hovering, active, focus, visited, etc.
 
 ### Pseudo class element
 used to style specified parts of an element
+
+### CSS positions:
+-  property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
   
