@@ -1,5 +1,6 @@
 ## DOM
-- Document object model is a tree like structure that represents the HTML elements of webpage. You can use javascript to access these elements in various ways.
+- Document object model is a tree like structure that represents the HTML elements of webpage. You can use javascript to access these elements in various ways.<br>
+html ko javascript se access karne ka tarika hain dom.<br>
 - They are:
   <ol>
     <li>document.getElementById(id)</li>
