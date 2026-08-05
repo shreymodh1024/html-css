@@ -11,3 +11,5 @@
 ### Manipulating DOM elements with JavaScript
 - To manipulate the DOM with javascript, you first need to select the element you want to modify using DOM selectors
 - Once you selected an element, you can then access and modify its properties, such as text content, attributes and styles. 
+console.dir --> document --> prop/methods<br>
+window object ==> document object (model)
